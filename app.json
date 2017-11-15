@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "mt-alarms",
+    "description": "Alarm Dashboard by MachineTalkz",
+    "slug": "mt-alarms",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#1D1A31",
+    "icon": "./assets/images/alarm-logo.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#cccccc"
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
